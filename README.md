@@ -19,12 +19,12 @@ Category | Package
 -------- | -------
 Browser | [Google Chrome](https://www.google.co.in/intl/en/chrome/browser/desktop/index.html)
 	| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
-Environment | NodeJS Latest ((https://nodejs.org/en/)
-Editors  | SublimeText Editor (https://www.sublimetext.com/3)
-	 | WebStrom IDE Free Trail (https://www.jetbrains.com/webstorm/download/#section=windows-version)
-Developer Tools | Chrome React Developer Tools (https://github.com/facebook/react-devtools)
-		| React Detector (https://github.com/kentcdodds/react-detector)
-Version Control | Git for Windows (https://git-scm.com/downloads)
+Environment | [NodeJS Latest](https://nodejs.org/en/)
+Editors  | [SublimeText Editor](https://www.sublimetext.com/3)
+	 | [WebStrom IDE Free Trail](https://www.jetbrains.com/webstorm/download/#section=windows-version)
+Developer Tools | [Chrome React Developer Tools](https://github.com/facebook/react-devtools)
+		| [React Detector](https://github.com/kentcdodds/react-detector)
+Version Control | [Git for Windows](https://git-scm.com/downloads)
 
 # React JS Training Notes
 
@@ -125,8 +125,8 @@ React.render(<MoviePoster title="Captain America: Civil War" lang="English" tags
 
 Reference | Link
 --------- | ----
-CSS | https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003  
-External JS URL in CodePen | //cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js
+CSS | (https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003) 
+External JS URL in CodePen | (//cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js)
 
 >Note:
 
@@ -149,7 +149,7 @@ npm install --save-dev gulp browserify babelify vinyl-source-stream babel-preset
 
 Reference | Link
 --------- | ----
-Gulpfile | https://gist.github.com/santhoshthepro/c12f9a3b725ca984303cddb1df25afc9
+Gulpfile | (https://gist.github.com/santhoshthepro/c12f9a3b725ca984303cddb1df25afc9)
 
 ## Lesson 4: React Environment Using WebPack Tooling
 
@@ -164,7 +164,7 @@ npm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel
 
 Reference | Link
 --------- | -----
-Webpack Config | https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b
+Webpack Config | (https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
 
 ## Lesson 5: ReactJS Simple Routing
 
@@ -177,5 +177,5 @@ npm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel
 
 Reference | Link
 --------- | ----
-Webpack Config | https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b
-Gulp with Webpack | https://gist.github.com/santhoshthepro/66c827cad2c808cc5f9ff6fab86cc396
+Webpack Config | (https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
+Gulp with Webpack | (https://gist.github.com/santhoshthepro/66c827cad2c808cc5f9ff6fab86cc396)
