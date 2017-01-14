@@ -32,4 +32,4 @@ Version Control | [Git for Windows](https://git-scm.com/downloads)
   ```
 
 
-[Back to Home Page](https://github.com/santhoshthepro/reactjs#table-of-contents)
+[Back to Home Page](https://santhoshthepro.github.io/reactjs/#table-of-contents)
