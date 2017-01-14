@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. React JS Introduction
+1. [React JS Introduction](#react-js---introduction)
 2. [Understanding Web Components](/web-components.md)
 3. [The Virtual DOM](/virtual-dom.md)
 4. [Data Flow in React](/data-flow.md)
