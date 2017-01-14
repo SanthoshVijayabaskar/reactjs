@@ -6,6 +6,7 @@
 * Using **ReactDOM.reder()** method to mount the RAW HTML element under 'app'
 * Use **React.createElement()** way of creating simple components/elements
 
+### Code
 ```html
 <!DOCTYPE html>
 <html>
