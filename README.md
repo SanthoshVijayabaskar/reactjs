@@ -34,6 +34,7 @@
 * [React Page Routing using react-router](lesson-5.md)
 * [Search Component](lesson-6.md)
 * [Handling Forms](lesson-7.md)
+* [Quiz]()
 
 > ### Redux
 
@@ -41,16 +42,19 @@
 
 * [Part 1: Data Flow - Store to Component]()
 * [Part 2: Data Flow - Component to Store]()
+* [Quiz]()
 
 #### Level 4:
 
 * [Part 3: Handling REST Web Services Using Thunk]()
+* [Quiz]()
 
 > ### Testing
 
 #### Level 5:
 
 * [Unit Testing using JEST]()
+* [Quiz]()
 
 
 
