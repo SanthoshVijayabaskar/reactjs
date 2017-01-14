@@ -5,6 +5,7 @@
 2. [Understanding Web Components](/concepts/web-components.md)
 3. [The Virtual DOM](/concepts/virtual-dom.md)
 4. [Data Flow in React](/concepts/data-flow.md)
+5. [Reference & Read More](/reference.md)
 
 # React JS - Introduction
 * is an **Open Source library** (BSD License)
@@ -46,5 +47,4 @@
 #### Level 5:
 * [Unit Testing using JEST]()
 
-# Reference & Read More
 
