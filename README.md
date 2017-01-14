@@ -1,4 +1,4 @@
-#React JS 
+# React JS 
 * is an Open Source library (BSD License)
 * for 'V' in MVC
 * developed by Facebook
@@ -7,13 +7,13 @@
 * uses 'state' and 'props' for data flow
 * uses JSX Syntax
 
-#ReactJS Environment Setup
+# ReactJS Environment Setup
 
-###Hardware Requirements:
+### Hardware Requirements:
 * Minimum i5 Processor, 4GB RAM, Minimum 50 GB HDD
 * Windows 7 Operating System
 
-###Software Requirements:
+### Software Requirements:
 Category | Package
 -------- | ---------
 Browser | Google Chrome (https://www.google.co.in/intl/en/chrome/browser/desktop/index.html)
