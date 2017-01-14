@@ -17,8 +17,8 @@
 
 Category | Package
 -------- | -------
-Browser | Google Chrome (https://www.google.co.in/intl/en/chrome/browser/desktop/index.html)
-	| Mozilla Firefox (https://www.mozilla.org/en-US/firefox/new/)
+Browser | [Google Chrome](https://www.google.co.in/intl/en/chrome/browser/desktop/index.html)
+	| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 Environment | NodeJS Latest ((https://nodejs.org/en/)
 Editors  | SublimeText Editor (https://www.sublimetext.com/3)
 	 | WebStrom IDE Free Trail (https://www.jetbrains.com/webstorm/download/#section=windows-version)
