@@ -20,12 +20,14 @@
 >### React JS
 
 #### Level 1:
+>
 * [Getting Started with React JS Using Plain JS](/exercise/lesson-1.md)
 * [Creating a simple react component - 'MovieBox'](/exercise/lesson-2.md)
 * [Build tooling using GULP](/exercise/lesson-3.md)
 * [Build tooling using WebPack](/exercise/lesson-4.md)
 
 #### Level 2:
+>
 * [React Page Routing using react-router](lesson-5.md)
 * [Search Component](lesson-6.md)
 * [Handling Forms](lesson-7.md)
