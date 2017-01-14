@@ -120,10 +120,10 @@ React.render(<MoviePoster title="Captain America: Civil War" lang="English" tags
 
 ```
 
-Reference | Link
---------- | ----
-CSS | (https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003) 
-External JS URL in CodePen | (//cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js)
+Reference
+---------
+[CSS](https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003) 
+[External JS URL in CodePen](//cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js)
 
 >Note:
 
@@ -144,9 +144,9 @@ npm install --save-dev gulp browserify babelify vinyl-source-stream babel-preset
 ```
 
 
-Reference | Link
---------- | ----
-Gulpfile | (https://gist.github.com/santhoshthepro/c12f9a3b725ca984303cddb1df25afc9)
+Reference
+---------
+[Gulpfile](https://gist.github.com/santhoshthepro/c12f9a3b725ca984303cddb1df25afc9)
 
 ## Lesson 4: React Environment Using WebPack Tooling
 
@@ -159,9 +159,9 @@ npm install --save react react-dom
 npm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 webpack webpack-dev-server --save-dev
 ```
 
-Reference | Link
---------- | -----
-Webpack Config | (https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
+Reference
+---------
+[Webpack Config](https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
 
 ## Lesson 5: ReactJS Simple Routing
 
@@ -172,7 +172,7 @@ npm install --save react react-dom
 npm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 webpack webpack-dev-server --save-dev
 ```
 
-Reference | Link
---------- | ----
-Webpack Config | (https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
-Gulp with Webpack | (https://gist.github.com/santhoshthepro/66c827cad2c808cc5f9ff6fab86cc396)
+Reference
+---------
+[Webpack Config](https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
+[Gulp with Webpack](https://gist.github.com/santhoshthepro/66c827cad2c808cc5f9ff6fab86cc396)
