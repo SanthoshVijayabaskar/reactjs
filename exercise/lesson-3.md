@@ -2,6 +2,8 @@
 
 ![gulpfile-setup](https://cloud.githubusercontent.com/assets/1716894/21743180/f871d3e6-d522-11e6-8027-a1008fcd87ad.png)
 
+## STEP-BY-STEP
+
 #### STEP 1: Initialize NPM to create 'package.json'
 ```
 npm init
@@ -60,6 +62,8 @@ $gulp
 ```
 
 #### STEP 8: Open the 'index.html' via browser for OUTPUT!
+
+## Source Code
 
 ## Reference
 [Gulpfile](https://gist.github.com/santhoshthepro/c12f9a3b725ca984303cddb1df25afc9)
