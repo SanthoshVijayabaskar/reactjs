@@ -59,7 +59,7 @@ React.render(<MoviePoster title="Captain America: Civil War" lang="English" tags
 ### Reference
 [CSS](https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003) | [External JS URL in CodePen](//cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js)
 
-### Note:
+### Note
 >
 * `onClick={voteDown} -> Looks within render method`
 * `onClick={this.voteDown} -> looks across component`
