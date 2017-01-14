@@ -6,10 +6,10 @@ ReactJS follows the component-driven design where we develop Custom HTML-like Co
 ![component](https://santhoshthepro.github.io/reactjs/images/component-driven.png)
 
 ## 4 Key Features of Component-driven Design
-![features](https://github.com/santhoshthepro/reactjs/blob/master/images/4-features.png)
+![features](https://santhoshthepro.github.io/reactjs/images/4-features.png)
 
 ## Component-driven Frameworks
-![frameworks](https://github.com/santhoshthepro/reactjs/blob/master/images/frameworks.png)
+![frameworks](https://santhoshthepro.github.io/reactjs/images/frameworks.png)
 
 ## Reference
 * [React JS Component Architecture](https://devbutze.com/p/93)
