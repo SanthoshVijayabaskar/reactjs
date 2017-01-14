@@ -14,7 +14,7 @@ Editors  | [SublimeText Editor](https://www.sublimetext.com/3), [WebStrom IDE Fr
 Developer Tools | [Chrome React Developer Tools](https://github.com/facebook/react-devtools), [React Detector](https://github.com/kentcdodds/react-detector)
 Version Control | [Git for Windows](https://git-scm.com/downloads)
 
->Note: NPM Fix
+>Note: Fix for NPM Errors
 
 * **NPM Behind Corporate Proxy** (Recommended Method) 
     * Run the following commands to setup HTTP & HTTPS Proxy 
