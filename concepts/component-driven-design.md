@@ -2,7 +2,7 @@
 
 ReactJS follows the component-driven design where we develop Custom HTML-like Components and Compose them to design the UI. 
 
-## Visualizing 'Gmail App' as Components
+## Visualizing 'Gmail app' as Components
 ![component](https://santhoshthepro.github.io/reactjs/images/component-driven.png)
 
 ## 4 Key Features of Component-driven Design
