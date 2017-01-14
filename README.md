@@ -35,7 +35,7 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 
 ## Lesson 1: ReactJS 'Hello-World' using Plain JS
 
->Lesson Objectives
+Lesson Objectives
 * Including React Support in the HTML
 * Using ReactDOM.reder() method to mount the RAW element in the HTML Mountpoint 'app'
 * Use React.createElement() way of creating simple components/elements
@@ -80,7 +80,8 @@ Reference | Link
 CSS | https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003  
 External JS URL in CodePen | //cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js
 
-```
+
+```javascript
   class MoviePoster extends React.Component {
   
   //new to ES6
