@@ -1,7 +1,7 @@
 # React JS 
-* is an Open Source library (BSD License)
-* for 'V' in MVC
-* developed by Facebook
+* is an **Open Source library** (BSD License)
+* for **'V'** in MVC
+* developed by **Facebook**
 * uses **'Component-Driven' architecture** (Web Components)
 * uses **'Virtual DOM'** for Performance
 * uses **'state'** and **'props'** for data flow
