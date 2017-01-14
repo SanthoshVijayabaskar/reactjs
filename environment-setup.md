@@ -16,7 +16,7 @@ Version Control | [Git for Windows](https://git-scm.com/downloads)
 
 >Note:
 * [NPM Behind Corporate Proxy]() (Recommended Method)
-* NPM ERROR IN 'SELF_SIGNED_CERT_IN_CHAIN' - Run 'npm set strict-ssl false' in Terminal
+* NPM ERROR IN 'SELF_SIGNED_CERT_IN_CHAIN' - Run **'npm set strict-ssl false'** in Terminal
 
 
 [Back to Home Page](https://github.com/santhoshthepro/reactjs#table-of-contents)
