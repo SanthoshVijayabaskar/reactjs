@@ -16,7 +16,18 @@
 * uses **JSX Syntax**
 
 # Hands On Exercise
+
+### React JS
 1. [Getting Started with React JS Using Plain JS](/exercise/lesson-1.md)
-2. [Creating simple React Component - 'MovieBox'](/exercise/lesson-2.md)
-3. [React JS Environment Using GULP Tooling](/exercise/lesson-3.md)
-4. [React JS Environment Using WebPack Tooling](/exercise/lesson-4.md)
+2. [Creating a simple react component - 'MovieBox'](/exercise/lesson-2.md)
+3. [Build tooling using GULP](/exercise/lesson-3.md)
+4. [Build tooling using WebPack](/exercise/lesson-4.md)
+5. [React Page Routing using react-router](lesson-5.md)
+6. [Search Component](lesson-6.md)
+7. [Handling Forms](lesson-7.md)
+
+### Redux
+
+8. [Part 1: Data Flow - Store to Component]()
+9. [Part 2: Data Flow - Component to Store]()
+10. [Part 3: Handling REST Web Services Using Thunk]()
