@@ -2,23 +2,24 @@
 
 1. [React JS Introduction](#react-js---introduction)
 2. [Environment Setup](/environment-setup.md)
-2. [Understanding Web Components](/concepts/web-components.md)
-3. [The Virtual DOM](/concepts/virtual-dom.md)
-4. [Data Flow in React](/concepts/data-flow.md)
-5. [Reference & Read More](/concepts/reference.md)
+3. [Understanding Web Components](/concepts/web-components.md)
+4. [The Virtual DOM](/concepts/virtual-dom.md)
+5. [Data Flow in React](/concepts/data-flow.md)
+6. [Reference & Read More](/concepts/reference.md)
 
 # React JS - Introduction
-* is an **Open Source library** (BSD License)
+
+* is an **Open Source library** \(BSD License\)
 * for **'V'** in MVC
 * developed by **Facebook**
-* uses **'Component-Driven' architecture** (Web Components)
+* uses **'Component-Driven' architecture** \(Web Components\)
 * uses **'Virtual DOM'** for Performance
 * uses **'state'** and **'props'** for data flow
 * uses **JSX Syntax**
 
 # Hands On Exercise
 
->### React JS
+> ### React JS
 
 #### Level 1:
 
@@ -33,18 +34,22 @@
 * [Search Component](lesson-6.md)
 * [Handling Forms](lesson-7.md)
 
->### Redux
+> ### Redux
 
 #### Level 3:
+
 * [Part 1: Data Flow - Store to Component]()
 * [Part 2: Data Flow - Component to Store]()
 
 #### Level 4:
+
 * [Part 3: Handling REST Web Services Using Thunk]()
 
->### Testing 
+> ### Testing
 
 #### Level 5:
+
 * [Unit Testing using JEST]()
+
 
 
