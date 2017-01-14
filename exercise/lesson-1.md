@@ -2,7 +2,7 @@
 
 ### Lesson Objectives
 
-* Including React Support in the HT
+* Including React Support in the HTML
 * Using **ReactDOM.reder()** method to mount the RAW HTML element under 'app'
 * Use **React.createElement()** way of creating simple components/elements
 
