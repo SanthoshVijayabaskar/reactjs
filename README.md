@@ -122,6 +122,10 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 React.render(<MoviePoster title="Captain America: Civil War" lang="English" tags={['Thriller ',' sci-fi ',' action']} pic="http://bit.ly/1qAkFMf"/>, document.getElementById('app'));
 
 ```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 Reference | Link
 --------- | ----
@@ -145,6 +149,11 @@ npm install --g gulp
 npm install --save react react-dom
 npm install --save-dev gulp browserify babelify vinyl-source-stream babel-preset-es2015 babel-preset-react
 ```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 Reference | Link
 --------- | ----
@@ -172,6 +181,13 @@ Webpack Config | https://gist.github.com/santhoshthepro/44653556270888883d4ad700
 npm install --save react react-dom
 npm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 webpack webpack-dev-server --save-dev
 ```
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 Reference | Link
 --------- | ----
 Webpack Config | https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b
