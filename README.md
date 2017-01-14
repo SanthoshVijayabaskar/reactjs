@@ -5,7 +5,8 @@
 3. [Understanding Web Components](/concepts/web-components.md)
 4. [The Virtual DOM](/concepts/virtual-dom.md)
 5. [Data Flow in React](/concepts/data-flow.md)
-6. [Reference & Read More](/concepts/reference.md)
+6. [Component Lifecycle](/lifecycle.md)
+7. [Reference & Read More](/concepts/reference.md)
 
 # React JS - Introduction
 
@@ -27,13 +28,14 @@
 * [Creating a simple react component - 'MovieBox'](/exercise/lesson-2.md)
 * [Build tooling using GULP](/exercise/lesson-3.md)
 * [Build tooling using WebPack](/exercise/lesson-4.md)
+* [Component Lifecycle](/exercise/lesson-5.md)
 * [Quiz](https://www.classmarker.com/online-test/start/?quiz=eyt587a6720eb100)
 
 #### Level 2:
 
-* [React Page Routing using react-router](lesson-5.md)
-* [Search Component](lesson-6.md)
-* [Handling Forms](lesson-7.md)
+* [React Page Routing using react-router](lesson-6.md)
+* [Search Component](lesson-7.md)
+* [Handling Forms](lesson-8.md)
 * [Quiz]()
 
 > ### Redux
