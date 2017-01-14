@@ -1,5 +1,3 @@
-[React JS Introduction](/reactjs-introduction.md)
-
 # React JS 
 * is an **Open Source library** (BSD License)
 * for **'V'** in MVC
@@ -8,6 +6,12 @@
 * uses **'Virtual DOM'** for Performance
 * uses **'state'** and **'props'** for data flow
 * uses **JSX Syntax**
+
+[Table of Contents]
+
+[Understanding Web Components](/web-components.md)
+[The Virtual DOM](/virtual-dom.md)
+[Data Flow in React](/data-flow.md)
 
 # React JS Environment Setup
 
