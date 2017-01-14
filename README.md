@@ -2,7 +2,7 @@
 
 1. [React JS Introduction](#react-js---introduction)
 2. [Environment Setup](/environment-setup.md)
-3. [Understanding Web Components](/concepts/web-components.md)
+3. [Understanding Component-driven Design](/concepts/component-driven-design.md)
 4. [The Virtual DOM](/concepts/virtual-dom.md)
 5. [Data Flow in React](/concepts/data-flow.md)
 6. [Component Lifecycle](/concepts/lifecycle.md)
