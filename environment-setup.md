@@ -14,4 +14,9 @@ Editors  | [SublimeText Editor](https://www.sublimetext.com/3), [WebStrom IDE Fr
 Developer Tools | [Chrome React Developer Tools](https://github.com/facebook/react-devtools), [React Detector](https://github.com/kentcdodds/react-detector)
 Version Control | [Git for Windows](https://git-scm.com/downloads)
 
+>Note:
+* [NPM Behind Corporate Proxy]() (Recommended Method)
+* NPM ERROR IN 'SELF_SIGNED_CERT_IN_CHAIN' - Run 'npm set strict-ssl false' in Terminal
+
+
 [Back to Home Page](https://github.com/santhoshthepro/reactjs#table-of-contents)
