@@ -122,10 +122,6 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 React.render(<MoviePoster title="Captain America: Civil War" lang="English" tags={['Thriller ',' sci-fi ',' action']} pic="http://bit.ly/1qAkFMf"/>, document.getElementById('app'));
 
 ```
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 Reference | Link
 --------- | ----
