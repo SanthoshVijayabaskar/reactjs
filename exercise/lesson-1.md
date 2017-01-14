@@ -1,10 +1,10 @@
 ## Lesson 1: React JS 'Hello-World' using Plain JS
 
->Lesson Objectives
-
-* Including React Support in the HTML
-* Using **ReactDOM.reder()** method to mount the RAW element in the HTML Mountpoint 'app'
-* Use **React.createElement()** way of creating simple components/elements
+### Lesson Objectives
+>
+	* Including React Support in the HT
+	* Using **ReactDOM.reder()** method to mount the RAW element in the HTML Mountpoint 'app'
+	* Use **React.createElement()** way of creating simple components/elements
 
 ```html
 <!DOCTYPE html>
