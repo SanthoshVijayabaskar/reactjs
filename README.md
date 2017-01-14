@@ -1,4 +1,4 @@
-[React JS Introduction](reactjs/reactjs-introduction.md)
+[React JS Introduction](/reactjs-introduction.md)
 
 # React JS 
 * is an **Open Source library** (BSD License)
