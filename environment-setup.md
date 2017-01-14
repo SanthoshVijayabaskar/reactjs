@@ -25,7 +25,7 @@ Version Control | [Git for Windows](https://git-scm.com/downloads)
   ```
   
 * NPM ERROR IN **'SELF_SIGNED_CERT_IN_CHAIN'**
-    * Run the following command in Terminal to disable strict SSL  
+    * Run the following command in Terminal to disable strict SSL (Try Setting Proxy Instead of this step)
   
   ```
   npm set strict-ssl false
