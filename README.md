@@ -16,7 +16,7 @@
 * uses **JSX Syntax**
 
 # Hands On Exercise
-1. Getting Started with React JS Using Plain JS
-2. Creating simple React Component - 'MovieBox'
-3. React JS Environment Using GULP Tooling
-4. React JS Environment Using WebPack Tooling
+1. [Getting Started with React JS Using Plain JS](/exercise/lesson-1.md)
+2. [Creating simple React Component - 'MovieBox'](/exercise/lesson-2.md)
+3. [React JS Environment Using GULP Tooling](/exercise/lesson-3.md)
+4. [React JS Environment Using WebPack Tooling](/exercise/lesson-4.md)
