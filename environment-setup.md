@@ -17,7 +17,7 @@ Version Control | [Git for Windows](https://git-scm.com/downloads)
 >Note:
 
 * NPM Behind Corporate Proxy (Recommended Method) 
-Run the following commands to setup HTTP & HTTPS Proxy 
+    * Run the following commands to setup HTTP & HTTPS Proxy 
   
   ```
   npm config set proxy http://proxy.example.com:3128
@@ -25,7 +25,7 @@ Run the following commands to setup HTTP & HTTPS Proxy
   ```
   
 * NPM ERROR IN 'SELF_SIGNED_CERT_IN_CHAIN'
-Run the following command in Terminal to disable strict SSL  
+    * Run the following command in Terminal to disable strict SSL  
   
   ```
   npm set strict-ssl false
