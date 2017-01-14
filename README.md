@@ -27,6 +27,7 @@
 * [Creating a simple react component - 'MovieBox'](/exercise/lesson-2.md)
 * [Build tooling using GULP](/exercise/lesson-3.md)
 * [Build tooling using WebPack](/exercise/lesson-4.md)
+* [Level 1: Quiz](https://www.classmarker.com/online-test/start/?quiz=eyt587a6720eb100)
 
 #### Level 2:
 
