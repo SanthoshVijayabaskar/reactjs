@@ -28,14 +28,14 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 
 # ReactJS Training Notes
 
-##2-way data binding (vs) 1-way data binding
+## 2-way data binding (vs) 1-way data binding
 ![1way](https://cloud.githubusercontent.com/assets/1716894/21743240/3492ba1a-d524-11e6-991d-e01f0ba59fb0.png)
 
 # ReactJS Lessons
 
 ## Lesson 1: ReactJS 'Hello-World' using Plain JS
 
-> Lesson Objectives:
+>Lesson Objectives:
 * Including React Support in the HTML
 * Using ReactDOM.reder() method to mount the RAW element in the HTML Mountpoint 'app'
 * Use React.createElement() way of creating simple components/elements
@@ -67,7 +67,7 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 
 ## Lesson 2: 'Movie Box' Widget
 
-> Lesson Objectives:
+>Lesson Objectives:
 * Creating a 'MoviePoster' Component
 * Use of 'constructor' method to Initialize State
 * ES6 Destructuring of variables
@@ -156,7 +156,7 @@ Reference | Link
 --------- | ----
 Webpack Config | https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b
 
-##Lesson 5: ReactJS Simple Routing
+## Lesson 5: ReactJS Simple Routing
 
 >NPM Installation Commands
 ```
