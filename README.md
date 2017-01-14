@@ -80,7 +80,7 @@ Reference | Link
 CSS | https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003  
 External JS URL in CodePen | //cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js
 
-  ``` javascript
+```
   class MoviePoster extends React.Component {
   
   //new to ES6
@@ -123,7 +123,8 @@ External JS URL in CodePen | //cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react
 //props
 //state - determines the state of component, if this changes, the UI changes
 React.render(<MoviePoster title="Captain America: Civil War" lang="English" tags={['Thriller ',' sci-fi ',' action']} pic="http://bit.ly/1qAkFMf"/>, document.getElementById('app'));
- ```
+
+```
 >Note:
 *`onClick={voteDown} -> Looks within render method`
 *`onClick={this.voteDown} -> looks across component`
