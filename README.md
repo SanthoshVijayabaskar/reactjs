@@ -77,12 +77,6 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 * Event Handling in ReactJS
 * Use of 'state' and 'props'
 
-Reference | Link
---------- | ----
-CSS | https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003  
-External JS URL in CodePen | //cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js
-
-
 ```javascript
   class MoviePoster extends React.Component {
   
@@ -128,21 +122,30 @@ External JS URL in CodePen | //cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react
 React.render(<MoviePoster title="Captain America: Civil War" lang="English" tags={['Thriller ',' sci-fi ',' action']} pic="http://bit.ly/1qAkFMf"/>, document.getElementById('app'));
 
 ```
+
+Reference | Link
+--------- | ----
+CSS | https://gist.github.com/santhoshthepro/f807b145be81d3c131160c9d62f3f003  
+External JS URL in CodePen | //cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.min.js
+
 >Note:
-*`onClick={voteDown} -> Looks within render method`
-*`onClick={this.voteDown} -> looks across component`
-*`onClick={this.voteDown.bind(this)} -> Will Pass the Pros and State to the Function - Extending the Scope`
+
+* `onClick={voteDown} -> Looks within render method`
+* `onClick={this.voteDown} -> looks across component`
+* `onClick={this.voteDown.bind(this)} -> Will Pass the Pros and State to the Function - Extending the Scope`
 
 ## Lesson 3: React Environment Using GULP Tooling
 
 ![gulpfile-setup](https://cloud.githubusercontent.com/assets/1716894/21743180/f871d3e6-d522-11e6-8027-a1008fcd87ad.png)
 
->NPM Installation Commands
+>NPM Installation Commands:
+
 ```
 npm install --g gulp
 npm install --save react react-dom
 npm install --save-dev gulp browserify babelify vinyl-source-stream babel-preset-es2015 babel-preset-react
 ```
+
 Reference | Link
 --------- | ----
 Gulpfile | https://gist.github.com/santhoshthepro/c12f9a3b725ca984303cddb1df25afc9
@@ -152,6 +155,7 @@ Gulpfile | https://gist.github.com/santhoshthepro/c12f9a3b725ca984303cddb1df25af
 ![webpack](https://cloud.githubusercontent.com/assets/1716894/21743202/7d41f68c-d523-11e6-9700-77a1bf8d8c2d.png)
 
 > NPM Installation Commands
+
 ```
 npm install --save react react-dom
 npm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 webpack webpack-dev-server --save-dev
@@ -163,6 +167,7 @@ Webpack Config | https://gist.github.com/santhoshthepro/44653556270888883d4ad700
 ## Lesson 5: ReactJS Simple Routing
 
 >NPM Installation Commands
+
 ```
 npm install --save react react-dom
 npm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 webpack webpack-dev-server --save-dev
