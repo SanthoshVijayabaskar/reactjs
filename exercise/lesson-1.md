@@ -2,9 +2,9 @@
 
 ### Lesson Objectives
 >
-	* Including React Support in the HT
-	* Using **ReactDOM.reder()** method to mount the RAW element in the HTML Mountpoint 'app'
-	* Use **React.createElement()** way of creating simple components/elements
+* Including React Support in the HT
+* Using **ReactDOM.reder()** method to mount the RAW element in the HTML Mountpoint 'app'
+* Use **React.createElement()** way of creating simple components/elements
 
 ```html
 <!DOCTYPE html>
