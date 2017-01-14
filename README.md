@@ -2,9 +2,9 @@
 
 1. [React JS Introduction](#react-js---introduction)
 2. [Environment Setup](/environment-setup.md)
-2. [Understanding Web Components](/web-components.md)
-3. [The Virtual DOM](/virtual-dom.md)
-4. [Data Flow in React](/data-flow.md)
+2. [Understanding Web Components](/concepts/web-components.md)
+3. [The Virtual DOM](/concepts/virtual-dom.md)
+4. [Data Flow in React](/concepts/data-flow.md)
 
 # React JS - Introduction
 * is an **Open Source library** (BSD License)
