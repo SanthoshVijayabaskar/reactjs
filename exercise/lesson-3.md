@@ -2,7 +2,7 @@
 
 ![gulpfile-setup](https://cloud.githubusercontent.com/assets/1716894/21743180/f871d3e6-d522-11e6-8027-a1008fcd87ad.png)
 
-## Step-by-Step
+## Step-by-Step Workout
 
 #### STEP 1: Initialize NPM to create 'package.json'
 ```
