@@ -17,7 +17,7 @@
 
 # Hands On Exercise
 
->### React JS
+>### **React JS**
 
 #### Level 1:
 * [Getting Started with React JS Using Plain JS](/exercise/lesson-1.md)
