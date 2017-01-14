@@ -5,7 +5,7 @@
 3. [Understanding Web Components](/concepts/web-components.md)
 4. [The Virtual DOM](/concepts/virtual-dom.md)
 5. [Data Flow in React](/concepts/data-flow.md)
-6. [Component Lifecycle](/lifecycle.md)
+6. [Component Lifecycle](/concepts/lifecycle.md)
 7. [Reference & Read More](/concepts/reference.md)
 
 # React JS - Introduction
