@@ -35,8 +35,8 @@ Version Control | [Git for Windows](https://git-scm.com/downloads)
 >Lesson Objectives
 
 * Including React Support in the HTML
-* Using ReactDOM.reder() method to mount the RAW element in the HTML Mountpoint 'app'
-* Use React.createElement() way of creating simple components/elements
+* Using **ReactDOM.reder()** method to mount the RAW element in the HTML Mountpoint 'app'
+* Use **React.createElement()** way of creating simple components/elements
 
 ```html
 <!DOCTYPE html>
