@@ -13,11 +13,6 @@
 * Minimum i5 Processor, 4GB RAM, Minimum 50 GB HDD
 * Windows 7 Operating System
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 ### Software Requirements:
 
 Category | Package
@@ -31,16 +26,16 @@ Developer Tools | Chrome React Developer Tools (https://github.com/facebook/reac
 		| React Detector (https://github.com/kentcdodds/react-detector)
 Version Control | Git for Windows (https://git-scm.com/downloads)
 
-#ReactJS Training Notes
+# ReactJS Training Notes
 
 ##2-way data binding (vs) 1-way data binding
 ![1way](https://cloud.githubusercontent.com/assets/1716894/21743240/3492ba1a-d524-11e6-991d-e01f0ba59fb0.png)
 
-#ReactJS Lessons
+# ReactJS Lessons
 
-##Lesson 1: ReactJS 'Hello-World' using Plain JS
+## Lesson 1: ReactJS 'Hello-World' using Plain JS
 
->Lesson Objectives:
+> Lesson Objectives:
 * Including React Support in the HTML
 * Using ReactDOM.reder() method to mount the RAW element in the HTML Mountpoint 'app'
 * Use React.createElement() way of creating simple components/elements
@@ -70,9 +65,9 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 	</html>
 ```
 
-##Lesson 2: 'Movie Box' Widget
+## Lesson 2: 'Movie Box' Widget
 
->Lesson Objectives:
+> Lesson Objectives:
 * Creating a 'MoviePoster' Component
 * Use of 'constructor' method to Initialize State
 * ES6 Destructuring of variables
@@ -129,12 +124,12 @@ External JS URL in CodePen | //cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react
 //state - determines the state of component, if this changes, the UI changes
 React.render(<MoviePoster title="Captain America: Civil War" lang="English" tags={['Thriller ',' sci-fi ',' action']} pic="http://bit.ly/1qAkFMf"/>, document.getElementById('app'));
   ```
->Note:
+> Note:
 * `onClick={voteDown} -> Looks within render method`
 * `onClick={this.voteDown} -> looks across component`
 * `onClick={this.voteDown.bind(this)} -> Will Pass the Pros and State to the Function - Extending the Scope`
 
-##Lesson 3: React Environment Using GULP Tooling
+## Lesson 3: React Environment Using GULP Tooling
 
 ![gulpfile-setup](https://cloud.githubusercontent.com/assets/1716894/21743180/f871d3e6-d522-11e6-8027-a1008fcd87ad.png)
 
@@ -148,11 +143,11 @@ Reference | Link
 --------- | ----
 Gulpfile | https://gist.github.com/santhoshthepro/c12f9a3b725ca984303cddb1df25afc9
 
-##Lesson 4: React Environment Using WebPack Tooling
+## Lesson 4: React Environment Using WebPack Tooling
 
 ![webpack](https://cloud.githubusercontent.com/assets/1716894/21743202/7d41f68c-d523-11e6-9700-77a1bf8d8c2d.png)
 
->NPM Installation Commands
+> NPM Installation Commands
 ```
 npm install --save react react-dom
 npm install babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 webpack webpack-dev-server --save-dev
