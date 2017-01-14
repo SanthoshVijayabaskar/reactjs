@@ -35,10 +35,10 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 
 ## Lesson 1: ReactJS 'Hello-World' using Plain JS
 
->Lesson Objectives:
-*Including React Support in the HTML
-*Using ReactDOM.reder() method to mount the RAW element in the HTML Mountpoint 'app'
-*Use React.createElement() way of creating simple components/elements
+>Lesson Objectives
+* Including React Support in the HTML
+* Using ReactDOM.reder() method to mount the RAW element in the HTML Mountpoint 'app'
+* Use React.createElement() way of creating simple components/elements
 
 ```html
 <!DOCTYPE html>
@@ -67,7 +67,7 @@ Version Control | Git for Windows (https://git-scm.com/downloads)
 
 ## Lesson 2: 'Movie Box' Widget
 
->Lesson Objectives:
+> Lesson Objectives
 * Creating a 'MoviePoster' Component
 * Use of 'constructor' method to Initialize State
 * ES6 Destructuring of variables
