@@ -14,4 +14,4 @@ Editors  | [SublimeText Editor](https://www.sublimetext.com/3), [WebStrom IDE Fr
 Developer Tools | [Chrome React Developer Tools](https://github.com/facebook/react-devtools), [React Detector](https://github.com/kentcdodds/react-detector)
 Version Control | [Git for Windows](https://git-scm.com/downloads)
 
-[Back to Home Page](/reactjs#table-of-contents)
+[Back to Home Page](https://github.com/santhoshthepro/reactjs#table-of-contents)
