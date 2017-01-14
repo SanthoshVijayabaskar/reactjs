@@ -17,7 +17,7 @@
 
 # Hands On Exercise
 
-### React JS
+>### React JS
 
 #### Level 1:
 1. [Getting Started with React JS Using Plain JS](/exercise/lesson-1.md)
@@ -30,7 +30,7 @@
 6. [Search Component](lesson-6.md)
 7. [Handling Forms](lesson-7.md)
 
-### Redux
+>### Redux
 
 #### Level 3:
 8. [Part 1: Data Flow - Store to Component]()
