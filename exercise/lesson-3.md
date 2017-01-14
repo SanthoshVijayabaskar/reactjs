@@ -14,9 +14,9 @@ npm install --save react react-dom
 npm install --save-dev gulp browserify babelify vinyl-source-stream babel-preset-es2015 babel-preset-react
 ```
 
-#### STEP 3: Create 'gulpfile.js' in the root directory (Check Reference for Config File)
+#### STEP 3: Create the build file 'gulpfile.js' in the root directory (Check Reference for config)
 
-#### STEP 4: Create 'index.html'
+#### STEP 4: Create the Single Page 'index.html'
 ```html
 <!DOCTYPE html>
 <html>
@@ -31,7 +31,7 @@ npm install --save-dev gulp browserify babelify vinyl-source-stream babel-preset
 </html>
 ```
 
-#### STEP 5: Create 'hello-world.jsx'
+#### STEP 5: Create the first component - 'hello-world.jsx'
 ```javascript
 import React from 'react';
 
@@ -45,7 +45,7 @@ class HelloWorld extends React.Component{
 export default HelloWorld;
 ```
 
-#### STEP 6: Create 'app.jsx'
+#### STEP 6: Create 'app.jsx' (It holds the 'render' method to mount the component to HTML)
 ```javascript
 import HelloWorld from './hello-world';
 import React from 'react';
