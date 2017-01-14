@@ -33,9 +33,9 @@
 
 #### Level 2:
 
-* [React Page Routing using react-router](lesson-6.md)
-* [Search Component](lesson-7.md)
-* [Handling Forms](lesson-8.md)
+* [React Page Routing using react-router](/exercise/lesson-6.md)
+* [Search Component](/exercise/lesson-7.md)
+* [Handling Forms](/exercise/lesson-8.md)
 * [Quiz]()
 
 > ### Redux
