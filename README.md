@@ -13,9 +13,15 @@
 * Minimum i5 Processor, 4GB RAM, Minimum 50 GB HDD
 * Windows 7 Operating System
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ### Software Requirements:
+
 Category | Package
--------- | ---------
+-------- | -------
 Browser | Google Chrome (https://www.google.co.in/intl/en/chrome/browser/desktop/index.html)
 	| Mozilla Firefox (https://www.mozilla.org/en-US/firefox/new/)
 Environment | NodeJS Latest ((https://nodejs.org/en/)
