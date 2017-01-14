@@ -1,6 +1,6 @@
 ## Lesson 2: 'Movie Box' Widget
 
-> Lesson Objectives
+### Lesson Objectives
 
 * Creating a 'MoviePoster' Component
 * Use of 'constructor' method to Initialize State
@@ -9,6 +9,7 @@
 * Event Handling in ReactJS
 * Use of 'state' and 'props'
 
+### Code
 ```javascript
   class MoviePoster extends React.Component {
   
