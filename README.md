@@ -1,10 +1,11 @@
 # Table of Contents
 
-[Understanding Web Components](/web-components.md)</br>
-[The Virtual DOM](/virtual-dom.md)</br>
-[Data Flow in React](/data-flow.md)</br>
+1. React JS Introduction
+2. [Understanding Web Components](/web-components.md)
+3. [The Virtual DOM](/virtual-dom.md)
+4. [Data Flow in React](/data-flow.md)
 
-# React JS 
+# React JS - Introduction
 * is an **Open Source library** (BSD License)
 * for **'V'** in MVC
 * developed by **Facebook**
