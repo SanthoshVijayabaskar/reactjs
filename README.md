@@ -7,11 +7,11 @@
 * uses **'state'** and **'props'** for data flow
 * uses **JSX Syntax**
 
-[Table of Contents]
+# Table of Contents
 
-[Understanding Web Components](/web-components.md)
-[The Virtual DOM](/virtual-dom.md)
-[Data Flow in React](/data-flow.md)
+[Understanding Web Components](/web-components.md)</br>
+[The Virtual DOM](/virtual-dom.md)</br>
+[Data Flow in React](/data-flow.md)</br>
 
 # React JS Environment Setup
 
