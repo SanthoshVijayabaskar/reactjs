@@ -31,6 +31,13 @@ Editors  | [SublimeText Editor](https://www.sublimetext.com/3), [WebStrom IDE Fr
 Developer Tools | [Chrome React Developer Tools](https://github.com/facebook/react-devtools), [React Detector](https://github.com/kentcdodds/react-detector)
 Version Control | [Git for Windows](https://git-scm.com/downloads)
 
+# Hands-On Exercise
+1. Getting Started with React JS Using Plain JS
+2. Creating simple React Component - 'MovieBox'
+3. React JS Environment Using GULP Tooling
+4. React JS Environment Using WebPack Tooling
+
+
 # React JS Training Notes
 
 ## 2-way data binding (vs) 1-way data binding
