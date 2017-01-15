@@ -59,7 +59,7 @@ LifecycleComponent.defaultProps = {
 	}
 ```
 ## Source Code 
-(https://github.com/santhoshthepro/react-js/tree/master/code/L5)
+https://github.com/santhoshthepro/react-js/tree/master/code/L5
 
 ## Reference
 https://facebook.github.io/react/docs/react-component.html
