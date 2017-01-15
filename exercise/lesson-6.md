@@ -38,4 +38,4 @@ ReactDOM.render((
 https://github.com/santhoshthepro/react-js/tree/master/code/L6
 
 ## Reference
-[Webpack Config](https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b) |  [Gulp with Webpack](https://gist.github.com/santhoshthepro/66c827cad2c808cc5f9ff6fab86cc396)
+[Webpack Config](https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
