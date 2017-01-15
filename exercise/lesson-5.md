@@ -2,7 +2,7 @@
 
 ## Code
 ```javascript
-	import React,{Component} from 'react';
+import React,{Component} from 'react';
 
 export default class LifecycleComponent extends Component{
 
@@ -15,15 +15,18 @@ export default class LifecycleComponent extends Component{
 	}
 
 	componentWillMount(){
-		console.log("componentWillMount Called before Mounting the Component: Here too we can initalize State");
+		console.log("componentWillMount Called before Mounting the Component: 
+				Here too we can initalize State");
 	}
 
 	componentDidMount(){
-		console.log("componentDidMount Called after Mounting the Component: Here you can access the DOM!")
+		console.log("componentDidMount Called after Mounting the Component: 
+				Here you can access the DOM!")
 	}
 
 	componentWillReceiveProps(){
-		console.log("componentWillReceiveProps Called when Update Initiated (State or Props Change)");
+		console.log("componentWillReceiveProps Called when Update Initiated 
+				(State or Props Change)");
 	}
 
 	shouldComponentUpdate(){
@@ -39,7 +42,8 @@ export default class LifecycleComponent extends Component{
 	}
 
 	componentWillUnMount(){
-		console.log("componentWillUnMount Called before un-mounting the Component: Here you can perform clean up operation");
+		console.log("componentWillUnMount Called before un-mounting the Component:
+				Here you can perform clean up operation");
 	}
 
 	render(){
