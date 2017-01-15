@@ -2,15 +2,18 @@ import React, { Component } from 'react';
 import { Link } from 'react-router';
 import MovieBox from './movie-box';
 
-//P2:3 Importing Connect to bind to Redux
+
 import {connect} from 'react-redux';
+
+//P3:1 Importing Actions
+import {selectMovie} from '../../actions/index';
+import {bindActionCreators} from 'redux';
 
 class MoviesPage extends Component{
 
 	constructor(props){
 		super(props);
-		//P2:6 Comment the state and let's access it via Redux
-		   /**
+		/**
 		   this.state ={
 			 movies: [
 			 	{key:'1', title: 'Kabali',desc:'Super Star Release',pic:'http://bit.do/movie-pic1'},
@@ -34,15 +37,19 @@ class MoviesPage extends Component{
 
 	}
 
-	render(){
+	createMovieList(){
 
-		var movieItems = this.props.movies.map(function(movie){
-			return <MovieBox key={movie.key} desc={movie.desc} title={movie.title} pic={movie.pic} handleBooking={this.handleBooking} handleReadMore={this.handleReadMore}/>
+		return this.props.movies.map(function(movie){
+			return
+				<MovieBox key={movie.key} desc={movie.desc} title={movie.title} pic={movie.pic} handleBooking={this.props.selectMovie}/>				
 		}.bind(this));
+	}
+
+	render(){
 
 		return (	<div>
 						{/* <h2>This is a Movies Page</h2> */}
-						{movieItems}
+						{this.createMovieList}
 			   		</div>
 			   );
 	}
@@ -50,12 +57,16 @@ class MoviesPage extends Component{
 
 }
 
-//P2:4 Write mapStateToProps
+
 function mapStateToProps(state){
 	return{
 		movies: state.movies
 	};
 }
 
-//P2:5 Connect the above component to Redux to make it Smart
-export default connect(mapStateToProps)(MoviesPage);
+function matchDispatchToProps(dispatch){
+	return bindActionCreators({selectMovie: selectMovie}, dispatch);
+
+}
+
+export default connect(mapStateToProps,matchDispatchToProps)(MoviesPage);

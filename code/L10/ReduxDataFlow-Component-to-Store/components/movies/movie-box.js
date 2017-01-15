@@ -20,8 +20,8 @@ export default class MovieBox extends Component{
 								<h3 ref="title">{this.props.title}<span className="label label-default"></span></h3>
 								<p ref="desc">{this.props.desc}</p>
 								<p>
-									<button className="btn btn-primary" onClick={this.props.handleBooking.bind(this,movieChoosen)}>Book</button>
-									<button className="btn btn-default" onClick={this.props.handleReadMore.bind(this,movieChoosen)}>Read More...</button>
+									<button className="btn btn-primary" onClick={()=> this.props.handleBooking(movieChoosen)}>Book</button>
+									<button className="btn btn-default">Read More...</button>
 								
 								</p>
 							</div>
