@@ -36,7 +36,7 @@
 * [React Page Routing using react-router](/exercise/lesson-6.md)
 * [Search Component](/exercise/lesson-7.md)
 * [Handling Forms](/exercise/lesson-8.md)
-* [Quiz]()
+* [Quiz](https://www.classmarker.com/online-test/start/?quiz=djn587b97c186363)
 
 > ### Redux
 
