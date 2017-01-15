@@ -1,6 +1,6 @@
 ## Lesson 6: React Page Routing using 'react-router'
 
->NPM Installation Commands
+NPM Installation Commands
 
 ```
 npm install --save react react-dom
