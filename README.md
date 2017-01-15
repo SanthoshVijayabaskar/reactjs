@@ -42,8 +42,8 @@
 
 #### Level 3:
 
-* [Part 1: Data Flow - Store to Component]()
-* [Part 2: Data Flow - Component to Store]()
+* [Part 1: Data Flow - Store to Component](/exercise/lesson-9.md)
+* [Part 2: Data Flow - Component to Store](/exercise/lesson-10.md)
 * [Quiz]()
 
 #### Level 4:
