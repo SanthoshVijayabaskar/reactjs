@@ -36,6 +36,7 @@
 * [React Page Routing using react-router](/exercise/lesson-6.md)
 * [Search Component](/exercise/lesson-7.md)
 * [Handling Forms](/exercise/lesson-8.md)
+* [Composing Components - Stagging Exercise before Redux Training](https://github.com/santhoshthepro/reactjs/tree/master/code/L8-staging)
 * [Quiz](https://www.classmarker.com/online-test/start/?quiz=djn587b97c186363)
 
 > ### Redux
