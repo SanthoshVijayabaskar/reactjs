@@ -48,14 +48,14 @@
 
 #### Level 4:
 
-* [Part 3: Handling REST Web Services Using Thunk]()
+* [Part 3: Handling REST Web Services Using Thunk](/exercise/lesson-11.md)
 * [Quiz]()
 
 > ### Testing
 
 #### Level 5:
 
-* [Unit Testing using JEST]()
+* [Unit Testing using JEST](/exercise/lesson-12.md)
 * [Quiz]()
 
 
