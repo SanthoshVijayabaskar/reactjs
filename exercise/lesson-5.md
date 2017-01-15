@@ -1,1 +1,11 @@
+## React Components & Lifecycle Methods
 
+React provides several lifecycle methods, where various tasks can be performed during different stages of the Component Lifecycle.
+
+(From Official DOC):
+Methods prefixed with **'will'** are called right before something happens, and methods prefixed with **'did'** are called right after something happens.
+
+## Source Code 
+
+## Reference
+https://facebook.github.io/react/docs/react-component.html
