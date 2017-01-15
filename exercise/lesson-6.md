@@ -1,4 +1,4 @@
-## Lesson 6: ReactJS Simple Routing
+## Lesson 6: React Page Routing using 'react-router'
 
 >NPM Installation Commands
 
