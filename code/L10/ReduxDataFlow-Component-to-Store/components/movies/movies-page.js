@@ -24,6 +24,7 @@ class MoviesPage extends Component{
 			**/
 			 this.handleBooking = this.handleBooking.bind(this);
 			 this.handleReadMore = this.handleReadMore.bind(this);
+			 this.createMovieList = this.createMovieList.bind(this);
 	}
 
 	handleBooking(movie){
@@ -38,7 +39,7 @@ class MoviesPage extends Component{
 	}
 
 	createMovieList(){
-
+		console.log("Hello!");
 		return this.props.movies.map(function(movie){
 			return
 				<MovieBox key={movie.key} desc={movie.desc} title={movie.title} pic={movie.pic} handleBooking={this.props.selectMovie}/>				
@@ -47,9 +48,14 @@ class MoviesPage extends Component{
 
 	render(){
 
+		var movieItems = this.props.movies.map(function(movie){
+			return <MovieBox key={movie.key} desc={movie.desc} title={movie.title} pic={movie.pic} handleBooking={this.props.selectMovie} handleReadMore={this.handleReadMore}/>
+		}.bind(this));
+
+
 		return (	<div>
-						{/* <h2>This is a Movies Page</h2> */}
-						{this.createMovieList}
+						{/*<h2>This is a Movies Page</h2>*/}
+						{movieItems}
 			   		</div>
 			   );
 	}
