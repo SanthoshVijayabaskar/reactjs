@@ -2,7 +2,7 @@
 //Only valid reducers responds to Action Change, Other Reducer don't respond
 
 //When app boots, the state is null.. Once they choose any action, the state responds with new data
-export default function(state={},action){
+export default function(state=null,action){
 
 	switch(action.type){
 		case "MOVIE_SELECTED":

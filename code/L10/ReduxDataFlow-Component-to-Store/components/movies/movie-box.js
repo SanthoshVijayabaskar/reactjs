@@ -7,7 +7,8 @@ export default class MovieBox extends Component{
         
 
 			var movieChoosen = {
-				movieTitle: this.props.title,
+				key:this.props.key,
+				title: this.props.title,
 				desc: this.props.desc,
 				pic: this.props.pic
 			};

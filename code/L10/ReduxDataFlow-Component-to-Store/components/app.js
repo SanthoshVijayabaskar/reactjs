@@ -6,6 +6,7 @@ import { Router, Route, browserHistory } from 'react-router';
 import HomePage from './home/home-page';
 import MoviesPage from './movies/movies-page';
 import ContactPage from './contact/contact-page';
+import BookingPage from './cart/booking-page';
 
 //P1:1 Importing Reducers
 import allReducers from '../reducers/index';
@@ -27,6 +28,7 @@ ReactDOM.render((
 				<Route path="/" component={HomePage}>
 					<Route path="/movies" component={MoviesPage}/>
 					<Route path="/contact" component={ContactPage}/>
+					<Route path="/mybooking" component={BookingPage}/>
 				</Route>
 		</Router>
 	</Provider>

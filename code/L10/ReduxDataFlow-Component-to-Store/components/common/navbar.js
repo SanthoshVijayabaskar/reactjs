@@ -22,8 +22,9 @@ export default class NavBar extends Component{
 	      							<Link to="/" className="btn btn-default">{this.props.menuItem1} </Link>
 
 						           <Link to="/movies" className="btn btn-default">{this.props.menuItem2}  </Link>
+						           <Link to="/mybooking" className="btn btn-default">{this.props.menuItem3}</Link>
 
-								   <Link to="/contact" className="btn btn-default">{this.props.menuItem3}</Link>
+								   <Link to="/contact" className="btn btn-default">{this.props.menuItem4}</Link>
         						</ul>
 						   </div>
 					  </div>
