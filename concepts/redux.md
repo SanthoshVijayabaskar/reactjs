@@ -1,2 +1,2 @@
 # Redux De-mystified
- ![redux](/images/Redux-Flow.jpg)
+ ![redux](reactjs/images/Redux-Flow.jpg)
