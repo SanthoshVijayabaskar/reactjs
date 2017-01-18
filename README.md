@@ -1,18 +1,18 @@
 # Table of Contents
 
 > ## React JS
-  1. [React JS Introduction](#react-js---introduction)
-  2. [Environment Setup](/environment-setup.md)
-  3. [Understanding Component-driven Design](/concepts/component-driven-design.md)
-  4. [The Virtual DOM](/concepts/virtual-dom.md)
-  5. [Data Flow in React](/concepts/data-flow.md)
-  6. [Component Lifecycle](/concepts/lifecycle.md)
+  * [React JS Introduction](#react-js---introduction)
+  * [Environment Setup](/environment-setup.md)
+  * [Understanding Component-driven Design](/concepts/component-driven-design.md)
+  * [The Virtual DOM](/concepts/virtual-dom.md)
+  * [Data Flow in React](/concepts/data-flow.md)
+  * [Component Lifecycle](/concepts/lifecycle.md)
 
 > ## Redux
-  8. [Understanding Redux](/concepts/redux.md)
+  * [Understanding Redux](/concepts/redux.md)
 
 > ## Reference
-  7. [Reference & Read More](/concepts/reference.md)
+  * [Reference & Read More](/concepts/reference.md)
 
 # React JS - Introduction
 
