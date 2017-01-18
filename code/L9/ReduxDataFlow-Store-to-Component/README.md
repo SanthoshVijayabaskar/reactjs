@@ -2,11 +2,14 @@
 
 ## Store to Component
 
-#### STEP 1:
+#### STEP 1: Install Redux Packages using NPM Install
 
-* Update the Dependency in Package.JSON an run npm install
+```
+npm install redux react-redux redux-logger
 
-#### STEP 2: Inside App.js
+```
+
+#### STEP 2: Create a Store in 'App.js' entry File
 
 * Import the createStore module from Redux and Create a Store.
 
@@ -15,12 +18,11 @@ import {createStore} from 'redux';
 const store = createStore();
 ```
 
-#### STEP 3: Create a folder 'reducers' - To hold all the reducers
+#### STEP 3: Create a folder 'reducers'& Create a new Reducer 'reducer-movie.js'
 
-
-#### STEP 4: Create a new reducer js file 'reducer-movies.js'
-
-#### STEP 5: Inside reducer-movies.js --> Write the state / data
+* This 'reducers' folder will hold all the independent reducers
+* This Movie Reducer will hold all the data with respect to Movies. Here you model movie related data
+* As metioned above, Write the state / data within this movie reducer
 	
 ```javascript
 export default function(){
@@ -33,7 +35,7 @@ export default function(){
 }
 ```
 
-#### STEP 5: We need to pass Single big 
+#### STEP 4: Combine all Independent Reducers to Single Reducer Object
 data source to store.. so we need to combine 
 reducers..
 
@@ -52,7 +54,7 @@ export default allReducers;
 
 ```
 
-#### STEP 6: Go to STEP 1 (app.js) and Edit the 'createStore'
+#### STEP 5: Go to STEP 1 (app.js) and Edit the 'createStore'
 
 Include reducer code 
 
@@ -61,7 +63,7 @@ import allReducers from './reducers';
 const store = createStore(allReducers);
 ```
 
-#### STEP 7: Go to app.js and include Provider & Change the ReactDOM.render as below
+#### STEP 6: Go to app.js and include Provider & Change the ReactDOM.render as below
 
 ```
 import {Provider} from 'react-redux';
@@ -76,7 +78,7 @@ ReactDOM.render(
 -$$$ Now Use Container Components to Connect to Redux Providers, Explain Container and Presentational Components$$$-
 
 
-#### STEP 8: Go to "movie-poster.js" container component 
+#### STEP 7: Go to "movie-poster.js" container component 
 
 
 ```javascript
@@ -84,7 +86,7 @@ import {bindActionCreators} from 'redux';
 import {connect} from 'react-redux';
 ```
 
-#### STEP 9: create mapStateToProps() function within 'movie-poster.js'
+#### STEP 8: create mapStateToProps() function within 'movie-poster.js'
 
 //No One can call, {this.state} :: there is only {this.props}//
 
@@ -99,8 +101,8 @@ export default connect(mapStateToProps)(MoviePoster);
 
 ```
 
-#### STEP 10: Comment the State variable in "movie-poster.js"
+#### STEP 9: Comment the State variable in "movie-poster.js"
 and change the map function to "this.props.movies" :)
 
-#### STEP 11: Completed the READ FloW (Store to Component) is DONE :)
+#### STEP 10: Completed the READ FloW (Store to Component) is DONE :)
 
