@@ -9,6 +9,6 @@
 * [How Virtual DOM achieves Performance](http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode)
 
 ### Web Components
-* !(https://facebook.github.io/react/docs/web-components.html)
-* !(https://www.youtube.com/watch?v=g0TD0efcwVg)
+* [Web Components & React](https://facebook.github.io/react/docs/web-components.html)
+* [How Web Components and React Compliments Each Other](https://www.youtube.com/watch?v=g0TD0efcwVg)
 
