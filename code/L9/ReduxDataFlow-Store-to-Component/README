@@ -1,16 +1,17 @@
-Now time to implement Redux.
+# Redux - Data Flow PART 1: Store to Component
 
-STEP 0:
-=======
-Update the Dependency in Package.JSON an run npm install
+### STEP 0:
 
-STEP 1: Inside App.js
-======
+* Update the Dependency in Package.JSON an run npm install
 
-..................................
+### STEP 1: Inside App.js
+
+* Import the createStore module from Redux and Create a Store.
+
+```javascript
 import {createStore} from 'redux';
 const store = createStore();
-..................................
+```
 
 STEP 2: Create a folder 'reducers' - To hold all the reducers
 =======
