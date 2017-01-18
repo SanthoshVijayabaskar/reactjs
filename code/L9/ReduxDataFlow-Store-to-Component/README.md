@@ -1,4 +1,6 @@
-# Redux - Data Flow PART 1: Store to Component
+# Redux - Part 1
+
+## Store to Component
 
 ### STEP 1:
 
