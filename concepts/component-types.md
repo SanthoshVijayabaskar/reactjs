@@ -43,10 +43,10 @@ class Welcome extends React.Component {
 
 ```
 
-## Functional Component (ES5 Way - Deprecated)
+## Functional Component (Not Recommended)
 
 ```javascript
-var FunctionalWelcome = React.createClass({
+const FunctionalWelcome = () => (
  
   getInitialState : function(){
     return{
@@ -61,7 +61,8 @@ var FunctionalWelcome = React.createClass({
       </div>
     );
   }
-});
+  
+);
 ```
 
 ## Stateless Functional Component
