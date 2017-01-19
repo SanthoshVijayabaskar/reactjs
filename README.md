@@ -7,6 +7,7 @@
   * [The Virtual DOM](/concepts/virtual-dom.md)
   * [Data Flow in React](/concepts/data-flow.md)
   * [Component Lifecycle](/concepts/lifecycle.md)
+  * [Types of React Components & Ways of Implementation](/concepts/component-types.md)
 
 > ## Redux
   * [Understanding Redux](/concepts/redux.md)
