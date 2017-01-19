@@ -43,28 +43,6 @@ class Welcome extends React.Component {
 
 ```
 
-## Functional Component (Not Recommended)
-
-```javascript
-const FunctionalWelcome = () => (
- 
-  getInitialState : function(){
-    return{
-      this.state = {name: 'Santhosh'}
-    }
-  }
-  
-  render: function() {
-    return (
-      <div>
-        Welcome {this.state.name}
-      </div>
-    );
-  }
-  
-);
-```
-
 ## Stateless Functional Component
 
 ```javascript
