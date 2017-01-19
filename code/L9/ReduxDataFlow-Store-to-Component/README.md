@@ -36,10 +36,9 @@ export default function(){
 ```
 
 #### STEP 4: Combine all Independent Reducers to Single Reducer Object
-data source to store.. so we need to combine 
-reducers..
 
-Create a 'index.js' inside 'reducers' folder
+* Store is a Single Object, hence we need to combine all Independent Reducers to swap the Store
+* Create a 'index.js' inside 'reducers' folder
 
 ```javascript
 
@@ -54,9 +53,9 @@ export default allReducers;
 
 ```
 
-#### STEP 5: Go to STEP 1 (app.js) and Edit the 'createStore'
+#### STEP 5: Pass the 'Combined Reducer' to the Store (In App.js)
 
-Include reducer code 
+* The Combined Reducer is supplied to 'createStore' method, which populates the Store
 
 ```javascript
 import allReducers from './reducers';
@@ -75,20 +74,23 @@ ReactDOM.render(
 )
 ```
 
--$$$ Now Use Container Components to Connect to Redux Providers, Explain Container and Presentational Components$$$-
+> NOTE: Now we have written Provider which allows data from Store to React. We need to connect the container components with Redux to accept the data.
+	* Container Components / Smart Components - The Components which holds the State / data
+	* Presentation Components / Dumb Components - The Components which gets all its data from parent components
 
 
-#### STEP 7: Go to "movie-poster.js" container component 
+#### STEP 7: Connect the 'Container Component' with Redux
 
+* Go to "movie-poster.js" container component 
 
 ```javascript
-import {bindActionCreators} from 'redux';
 import {connect} from 'react-redux';
 ```
 
-#### STEP 8: create mapStateToProps() function within 'movie-poster.js'
+#### STEP 8: create mapStateToProps() and connect() function within 'movie-poster.js'
 
-//No One can call, {this.state} :: there is only {this.props}//
+* Since we mapped all the state to the container Component, we need to refer the data as {this.props} and not anymore as {this.state}
+* Comment the State variable in "movie-poster.js" and change the map function to "this.props.movies" :)
 
 ```javascript
 function mapStateToProps(state){
@@ -100,9 +102,4 @@ function mapStateToProps(state){
 export default connect(mapStateToProps)(MoviePoster);
 
 ```
-
-#### STEP 9: Comment the State variable in "movie-poster.js"
-and change the map function to "this.props.movies" :)
-
-#### STEP 10: Completed the READ FloW (Store to Component) is DONE :)
 
