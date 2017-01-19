@@ -75,6 +75,7 @@ ReactDOM.render(
 ```
 
 > NOTE: Now we have written Provider which allows data from Store to React. We need to connect the container components with Redux to accept the data.
+
 	* Container Components / Smart Components - The Components which holds the State / data
 	* Presentation Components / Dumb Components - The Components which gets all its data from parent components
 
