@@ -10,4 +10,4 @@
 * Presentational Components are ones which has plain HTML Markup and accepts data from parent component through {this.props}
 * Presentational Components are ones which also dosen't perform any UI logic and stays more generic implementation
 
-> Presentational Components are also called as Dumb Components (or) Non-Functional Components
+> Presentational Components are also called as Dumb Components (or) Stateless Functional Components
