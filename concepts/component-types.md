@@ -15,3 +15,11 @@
 # Ways to Implement Components
 
 ![new-smart](https://cloud.githubusercontent.com/assets/1716894/22089916/5fe678d4-de14-11e6-84a6-d957dd80c862.png)
+
+## Class Component
+
+## Functional Component
+
+## Stateless Class Component
+
+## Stateless Functional Component
