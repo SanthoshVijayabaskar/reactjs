@@ -14,3 +14,7 @@
 
 ## Good Reads
 * [Each framwork/library has its own opinion and approach? Which is good or which is bad? What is right or what is wrong? Which one to choose and which one to follow?](http://gettingreal.37signals.com/ch04_Make_Opinionated_Software.php)
+
+## Tools and Techniques - JavaScript Development
+
+* [Real Time Error Tracking with analytics using Sentry](https://sentry.io/for/javascript/)
