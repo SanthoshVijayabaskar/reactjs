@@ -13,4 +13,4 @@
 * [How Web Components and React Compliments Each Other](https://www.youtube.com/watch?v=g0TD0efcwVg)
 
 ## Good Reads
-* [Each framwork/library has its own opinion and approach? Which one to choose and which one to follow?](http://gettingreal.37signals.com/ch04_Make_Opinionated_Software.php)
+* [Each framwork/library has its own opinion and approach? Which is good or which is bad? What is right or what is wrong? Which one to choose and which one to follow?](http://gettingreal.37signals.com/ch04_Make_Opinionated_Software.php)
