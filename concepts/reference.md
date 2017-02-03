@@ -18,3 +18,5 @@
 ## Tools and Techniques - JavaScript Development
 
 * [Real Time Error Tracking with analytics using Sentry](https://sentry.io/for/javascript/)
+* [Next Generation Front-end API Mocking Framework](https://service-mocker.js.org/#/)
+
