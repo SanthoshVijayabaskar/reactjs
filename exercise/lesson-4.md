@@ -72,4 +72,5 @@ npm run start
 https://github.com/santhoshthepro/react-js/tree/master/code/L4/Build-tooling-using-Webpack
 
 ## Reference
-[Webpack Config](https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
+* [Webpack Config](https://gist.github.com/santhoshthepro/44653556270888883d4ad70026b2b57b)
+* [Guide to Setup Webpack Tooling - Article Reference](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel)
