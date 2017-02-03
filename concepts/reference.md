@@ -12,3 +12,5 @@
 * [Web Components & React](https://facebook.github.io/react/docs/web-components.html)
 * [How Web Components and React Compliments Each Other](https://www.youtube.com/watch?v=g0TD0efcwVg)
 
+## Good Reads
+* [Why there are so many framework and so many approaches](http://gettingreal.37signals.com/ch04_Make_Opinionated_Software.php)
